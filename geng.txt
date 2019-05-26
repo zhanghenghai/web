@@ -1,25 +1,26 @@
-{¸üÐÂ:
+ UTF-8
+{æ›´æ–°:
 
-¡¾°æ±¾:7.2:END¡¿
-¡¾´óÐ¡:4.8:END¡¿
-¡¾ÈÕÆÚ:2019-05-14:END¡¿
+ã€ç‰ˆæœ¬:7.2:ENDã€‘
+ã€å¤§å°:4.8:ENDã€‘
+ã€æ—¥æœŸ:2019-05-14:ENDã€‘
 
-¡¾¸üÐÂÈÕÖ¾:
-¢ÙÐÞ¸´ÄÚºËµ÷ÊÔÒ³ÃæÎÞ·¨·µ»Ø
+ã€æ›´æ–°æ—¥å¿—:
+â‘ ä¿®å¤å†…æ ¸è°ƒè¯•é¡µé¢æ— æ³•è¿”å›ž
 
-¢ÚÐÞ¸´²¿·Ö»úÐÍÉÁÍË¡¢ÎÞ·¨°²×°
+â‘¡ä¿®å¤éƒ¨åˆ†æœºåž‹é—ªé€€ã€æ— æ³•å®‰è£…
 
-¢Û7.0°æ±¾µÄ³ÌÐòÔ±ÒÑ±»Boss¿ª³ý
+â‘¢7.0ç‰ˆæœ¬çš„ç¨‹åºå‘˜å·²è¢«Bosså¼€é™¤
 
-¢ÜÌáÐÑ£ºÈç¹û°²×°ÔÚÏßÄÚºË²»ÄÜ²¥·ÅÇëÇåÀí»º´æ
+â‘£æé†’ï¼šå¦‚æžœå®‰è£…åœ¨çº¿å†…æ ¸ä¸èƒ½æ’­æ”¾è¯·æ¸…ç†ç¼“å­˜
 
-:END¡¿
+:ENDã€‘
 
-¡¾ÏÂÔØÖ±Á´¡¿https://tv.tmicloud.com/lanzouyun/?url=https://www.lanzous.com/i45cd5e¡¾ÏÂÔØÖ±Á´¡¿
-¡¾¹Ù·½ÍøÕ¾¡¿https://tv.tmicloud.com¡¾¹Ù·½ÍøÕ¾¡¿
-¡¾ÊÓÆµµØÖ·¡¿https://txmov2.a.yximgs.com/upic/2018/10/30/15/BMjAxODEwMzAxNTE1NTdfMTYzNzg1Nzc2Xzg2OTA2NDU4MTlfMl8z_b_B998d447993d76d57a75427c439f310dc.mp4¡¾ÊÓÆµµØÖ·¡¿
-¡¾Ç¿ÖÆ¸üÐÂ:TRUE:END¡¿
+ã€ä¸‹è½½ç›´é“¾ã€‘https://tv.tmicloud.com/lanzouyun/?url=https://www.lanzous.com/i45cd5eã€ä¸‹è½½ç›´é“¾ã€‘
+ã€å®˜æ–¹ç½‘ç«™ã€‘https://tv.tmicloud.comã€å®˜æ–¹ç½‘ç«™ã€‘
+ã€è§†é¢‘åœ°å€ã€‘https://txmov2.a.yximgs.com/upic/2018/10/30/15/BMjAxODEwMzAxNTE1NTdfMTYzNzg1Nzc2Xzg2OTA2NDU4MTlfMl8z_b_B998d447993d76d57a75427c439f310dc.mp4ã€è§†é¢‘åœ°å€ã€‘
+ã€å¼ºåˆ¶æ›´æ–°:TRUE:ENDã€‘
 
-¡¾°æ±¾ºÅ¸üÐÂ:TRUE:END¡¿
+ã€ç‰ˆæœ¬å·æ›´æ–°:TRUE:ENDã€‘
 
 :END}
